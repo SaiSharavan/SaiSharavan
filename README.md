@@ -2,13 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+@SaiSharavan!;Welcome+to+my+profile!" alt="Typing SVG">
 </div>
 
-<hr>
-
 <p style="font-size: 12px;">🎓 Currently pursuing B.Tech at KITS Warangal</p>
 <p style="font-size: 12px;">📫 Reach me at: <a href="mailto:padisaisharavan@gmail.com">email</a></p>
 
-<hr>
-
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 <div align="center">
   <h3 style="font-size: 12px;">Connect with me:</h3>
 </div>
@@ -18,8 +15,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Profile"/>
   </a>
 </p>
-
-<hr>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 <div align="center">
   <h3 style="font-size: 12px;">⚙️ Languages and Tools ⚙️</h3>
@@ -34,4 +30,3 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
 </p>
 
-<hr>
