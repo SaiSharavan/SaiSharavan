@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+@SaiSharavan!;Welcome+to+my+profile!" alt="Typing SVG">
 </div>
-
-<p style="font-size: 12px;">🎓 Currently pursuing B.Tech at KITS Warangal</p>
+<p style="font-size: 12px;">🎓 Currently Working as associate software developer in test at SOTI</p>
+<p style="font-size: 12px;">🎓 Graduated B.Tech at KITS Warangal</p>
 <p style="font-size: 12px;">📫 Reach me at: <a href="mailto:padisaisharavan@gmail.com">email</a></p>
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
